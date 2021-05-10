@@ -4,12 +4,12 @@ Penpeople es una plataforma dirigida a escritores con el objetivo de escribir hi
 Esto va formando un árbol de decisiones que ofrece múltiples ramas argumentales sobre una misma historia ofreciendo una experiencia de lectura y excritura interactiva.
 #
 <p align=center>
-<img align="center" width="350px" src="https://raw.githubusercontent.com/rosepernia/penpeople/master/public/pen1.jpg"/>
-<img align="center" width="350px" src="https://raw.githubusercontent.com/rosepernia/penpeople/master/public/pen2.jpg"/>
+<img align="center" width="350px" src="frontend/public/pen1.jpg"/>
+<img align="center" width="350px" src="frontend/public/pen2.jpg"/>
 </p>
 <p align=center>
-<img align="center" width="350px" src="https://raw.githubusercontent.com/rosepernia/penpeople/master/public/pen3.jpg"/>
-<img align="center" width="350px" src="https://raw.githubusercontent.com/rosepernia/penpeople/master/public/pen4.jpg"/>
+<img align="center" width="350px" src="frontend/public/pen3.jpg"/>
+<img align="center" width="350px" src="frontend/public/pen4.jpg"/>
 </p>
 
 ## Equipo
