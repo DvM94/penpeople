@@ -42,6 +42,7 @@ Esto va formando un árbol de decisiones que ofrece múltiples ramas argumentale
 
 ### Frontend:
 
+* cd frontend
 * npm install
 * npm run serve
 
