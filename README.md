@@ -29,7 +29,7 @@ Esto va formando un árbol de decisiones que ofrece múltiples ramas argumentale
 
 ## Descripción
 
-* Diseño responsive
+* Diseño responsive (Ordenador, tablet y móvil)
 * CRUD de usuarios
 * Creación y edicción de contenido
 * Editor de texto (TinyMCE)
