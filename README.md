@@ -37,6 +37,18 @@ Esto va formando un árbol de decisiones que ofrece múltiples ramas argumentale
 * Árbol de decisiones con Google Chart adaptado a Vue Composition API
 * Envío correos (Node Mailer + Handlebars)
 
+## Stack
+
+* HTML5, CSS3, JS
+* SASS
+* [VueJS](https://vuejs.org/)
+* [Node.js](https://nodejs.org/es/)
+* [Express.js](https://expressjs.com/es/)
+* [Bcrypt](https://www.npmjs.com/package/bcrypt)
+* [Nodemailer](https://nodemailer.com/about/)
+* [Nodemailer-express-handlebars](https://www.npmjs.com/package/nodemailer-express-handlebars)
+* [MongoDB Atlas](https://www.mongodb.com/es)
+* [Mongoose](https://mongoosejs.com/)
 
 ## Project setup
 
@@ -51,13 +63,3 @@ Esto va formando un árbol de decisiones que ofrece múltiples ramas argumentale
 * cd backend
 * npm install
 * npm start
-
-
-## Stack
-
-* Sass
-* JavaScript
-* NodeJS
-* MongoDB Atlas
-* VueJS Composition API
-
